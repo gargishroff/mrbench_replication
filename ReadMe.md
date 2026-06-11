@@ -72,7 +72,7 @@ Three structural findings sit underneath the headline numbers and matter more:
 
 ### Get the MRBench dataset (separate repo by the original authors)
 git clone https://github.com/kaushal0494/UnifyingAITutorEvaluation.git ../mrbench
-The file we need is `mrbench/BEA_Shared_Task_2025_Datasets/mrbench_v3_devset.json` — 300 conversations with 2,476 labelled tutor responses (~660 KB).
+The file we need is `mrbench/BEA_Shared_Task_2025_Datasets/mrbench_v3_devset.json` — 300 conversations with 2,476 labelled tutor responses.
 
 
 ### Install dependencies
